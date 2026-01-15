@@ -1,5 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
-import { Menu, X, MapPin, Facebook, Instagram, Twitter, Youtube, Globe, Mail, Phone } from "lucide-react";
+import { Menu, X, MapPin, Facebook, Instagram, Twitter, Youtube, Globe, Mail, Phone, Shield } from "lucide-react";
 import { useState } from "react";
 
 export default function PublicLayout() {
@@ -121,7 +121,7 @@ export default function PublicLayout() {
                 <li><a href="#" className="hover:text-green-600 transition-colors flex items-center gap-2"><Globe className="h-4 w-4" /> Pusat Bantuan</a></li>
                 <li><a href="#" className="hover:text-green-600 transition-colors flex items-center gap-2"><Mail className="h-4 w-4" /> Hubungi Kami</a></li>
                 <li><a href="#" className="hover:text-green-600 transition-colors flex items-center gap-2"><Phone className="h-4 w-4" /> Kontak Darurat</a></li>
-                <li><a href="#" className="hover:text-green-600 transition-colors">Kebijakan Privasi</a></li>
+                <li><a href="#" className="hover:text-green-600 transition-colors flex items-center gap-2"><Shield className="h-4 w-4" /> Kebijakan Privasi</a></li>
               </ul>
             </div>
 

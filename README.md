@@ -2,6 +2,14 @@
 
 Aplikasi web **Jelajah Bandung** starter project menggunakan **ReactJS + Vite + Tailwind CSS**. Project ini dirancang untuk platform pariwisata yang mencakup fitur untuk **Wisatawan** dan **Dinas**.
 
+## 📷 Screenshots
+
+|                                   Halaman Utama                                   |                                   Detail Wisata                                   |
+| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| <img src="./images/jelajahbdg1.jpg" alt="Halaman Jelajah Bandung 1" width="100%"> | <img src="./images/jelajahbdg2.jpg" alt="Halaman Jelajah Bandung 2" width="100%"> |
+
+<br />
+
 ## 🚀 Memulai (Getting Started)
 
 Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer lokal Anda.
