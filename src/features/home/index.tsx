@@ -6,7 +6,7 @@ const CATEGORIES = [
     title: "Nature", 
     desc: "Keindahan alam pegunungan",
     icon: Trees,
-    img: "https://images.unsplash.com/photo-1627393439498-8c014757c37a" 
+    img: "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d" 
   },
   { 
     title: "Culinary", 
@@ -45,7 +45,7 @@ const DESTINATIONS = [
     title: "Tangkuban Perahu", 
     location: "The Majestic Queen Mountain", 
     rating: 4.6, 
-    img: "https://images.unsplash.com/photo-1627393439498-8c014757c37a",
+    img: "https://images.unsplash.com/photo-1511497584788-876760111969",
   },
   { 
     title: "Sejiwa Coffee", 
@@ -71,7 +71,7 @@ const EVENTS = [
     location: "Jalan Asia Afrika",
     time: "08:00 - 16:00",
     desc: "Parade budaya megah yang merayakan sejarah bersejarah di...",
-    image: "https://images.unsplash.com/photo-1533174072545-e8d4aa97edf9",
+    image: "https://images.unsplash.com/photo-1649338054737-94b52fce8ad8",
   },
   {
     id: 2,
@@ -93,7 +93,7 @@ const EVENTS = [
     location: "Orchid Forest",
     time: "15:00 - Done",
     desc: "Nikmati harmoni musik jazz internasional di tengah rimbun pinus...",
-    image: "https://images.unsplash.com/photo-1514525253440-b393452e8d26",
+    image: "https://images.unsplash.com/photo-1473448912268-2022ce9509d8",
   }
 ];
 
